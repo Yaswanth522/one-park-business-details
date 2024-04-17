@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2 className="form-heading">Company information </h2>
+      <h3 className="form-heading">Company information </h3>
       <form onSubmit={onSubmitHandler}>
         <div className="row">
         <label htmlFor="company-name">Name</label>
