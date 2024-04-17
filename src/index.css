@@ -117,3 +117,6 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
+.form-heading{
+  color: #4E8020;
+}
